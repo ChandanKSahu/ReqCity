@@ -1,0 +1,125 @@
+3G	Third Generation  
+3P	Third Party  
+4G	Fourth Generation  
+A	Adjacent  
+ACL	Access Control List  
+APDU	Application Protocol Data Unit  
+API	Application Programming Interface 
+ASD	Aftermarket Safety Device  
+ASN.1	Abstract Syntax Notation.1  
+ASTC	Advanced Solid- state Traffic Controller (NYC standard traffic signal controller device)  
+ATC	Advance Traffic Controller (see ASTC)  
+ATIS	Advanced Traveler Information System  
+BAA	Basic Agency Agreement  
+BSM	Basic Safety Message  
+C	Continental  
+C2C	Center to Center  
+C2F	Center to Field  
+CA	Certificate Authority  
+CAMP	Crash Avoidance Metrics Partnership 
+CIA	Confidentiality/Integrity/Availability  
+ConOps	Concept of Operations  
+CRL	Certificate Revocation List
+CV	Connected Vehicle  
+CVPD	Connected Vehicle Pilot Deployment  
+CVRIA	Connected Vehicle Reference Implementation Architecture  
+DCAS	Department of Citywide Administrative Services  
+DCM	Device Configuration Manager  
+DD	Data Distribution  
+DNS	Domain Name System  
+DoS	Denial of Service  
+DSNY	New York City Department of Sanitation  
+DOT	Department of Transportation  
+DSRC	Dedicated Short Range Communications  
+EVSD	Enhance Vehicle Situation Data  
+Gbps	Gigabits per second 
+GHz	Gigahertz  
+GID	Geographic Intersection Description 
+GNSS	Global Navigation Satellite System  
+GPS	Global Positioning System  
+H	Historic  
+HMI	Human Machine Interface  
+HSM	Hardware Security Module  
+HTTPS	Hypertext Transfer Protocol (Secured)  
+I2V	Infrastructure to Vehicle 
+IEEE	Institute of Electrical and Electronics Engineers  
+IP	Internet Protocol  
+ISD	Intersection Situation Data  
+ITS	Intelligent Transportation System  
+JPO	Joint Program Office 
+KSI	Killed or Severally Injured  
+L	Local  
+MAP	Map Data Message (a DSRC message)  
+MOA	Memorandum of Agreement  
+MOU	Memorandum of Understanding  
+MTA	Metropolitan Transportation Authority  
+N	Now (context: temporal data distribution)  
+N	National (context: geographical data distribution)  
+NHTSA	National Highway Traffic Safety Administration  
+NOC	Network Operations Center
+NTP	Network Time Protocol  
+NYC	New York City  
+NYCDOT	New York City Department of Transportation  
+NYCWiN	New York City Wireless Network  
+O&M	Operations & Maintenance  
+OBD	On-board Diagnostics  
+OBE	On-Board Equipment  
+OCMC	Office of Construction Mitigation and Coordination  
+ODE	Operational Data Environment  
+OEM	Office of Emergency Management  
+OER	Office of Emergency Response 
+ORDS	Object Registration & Recovery Service 
+OS	Operating System  
+OST-R	Office of the Assistant Secretary of Transportation for Research and Technology  
+OTA	Over-the-Air 
+P2P	Peer-to-Peer 
+PDU	Protocol Data Unit  
+PID	Personal Information Device (e.g. SmartPhone)  
+PII	Personally Identifiable Information 
+PKI	Public Key Infrastructure  
+POC	Proof of Concept  
+R	Recent (context: time domain)  
+R	Regional (context: geographic domain)  
+RA	Registration Authority  
+RDE	Research Data Exchange  
+RF	Radio Frequency  
+RSA	Roadside Alert  
+RSE	Roadside Equipment  
+RSU	Roadside Unit  
+S	Static  
+SAE	Society of Automotive Engineers International  
+SCM	Security & Credential Management  
+SCMS	Security Credential Management System/Service  
+SDC	Situation Data Clearinghouse  
+SDLC	System Development Life Cycle  
+SDW	Situation Data Warehouse  
+SET-IT	System Engineering Tool – Intelligent Transportation 
+SM	Service Monitor  
+SMS	Service Monitor System  
+SPaT	Signal Phase and Timing (a DSRC message)  
+SPMD	Safety Pilot Model Deployment  
+SSL	Secure Sockets Layer  
+SyRS	System Requirements Specification 
+TAI	International Atomic Time (French: Temps atomique international)  
+TBD	To Be Determined  
+TCP	Transmission Control Protocol  
+TIC	<Region> Transportation Information Center  
+TLS	Transport Layer Security  
+TMC	Traffic Management Center  
+TPAC	Third Party Application Center  
+TSD	Traveler Situation Data  
+UDP	User Datagram Protocol  
+USDOT	United States Department of Transportation  
+UTC	Coordinated Universal Time (French: Temps universal coordonné ) 
+V2I	Vehicle-to-Infrastructure
+V2V	Vehicle-to-Vehicle  
+VPN	Virtual Private Network  
+VRU	Vulnerable Road User  
+WAID	Wide Area Information Distributor  
+WAVE	Wireless Access in Vehicular Environments  
+Wi-Fi	Wireless Fidelity (short to mid- range wireless network)  
+WiMAX	Worldwide Interoperability for Microwave Access  
+WSA	WAVE Service Advertisement  
+WSM	WAVE Short Messages  
+WSMP	WAVE Short Message Protocol
+XML	eXtensible Markup Language

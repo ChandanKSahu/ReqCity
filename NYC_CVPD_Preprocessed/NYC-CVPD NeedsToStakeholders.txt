@@ -1,0 +1,33 @@
+NeedID	NeedText	Stakeholder
+101.1	Need to manage speed on surface streets – 25 MPH regulatory speed limit	Traffic Manager
+101.2	Need to manage speeds on curves –regulatory speed limit	Traffic Manager
+101.3	Need to manage speed in work zones –speed limit	Traffic Manager
+102.1	Need to reduce crashes between vehicles	Traffic Manager
+102.2	Need to reduce crashes between vehicles	Traffic Manager
+102.3	Need to reduce crashes between vehicles	Traffic Manager
+102.4	Need to reduce crashes between vehicles	Traffic Manager
+102.5	Need to reduce crashes between vehicles	Traffic Manager
+102.6	Need to reduce crashes between vehicles	Traffic Manager
+103	Need to reduce crashes between vehicles and infrastructure	Traffic Manager
+104.1	Need to reduce crashes between vehicles and pedestrians / bicyclists	Traffic Manager
+104.2	Need to reduce crashes between vehicles and visually / audibly - impaired pedestrians	Traffic Manager
+105	Need to inform drivers of serious incidents	Traffic Manager
+106	Need to provide mobility information in heavily congested areas	Traffic Manager
+201	Need to have privacy	Fleet Owners
+202	Need to manage CV application for the traffic environment	Fleet Owners
+203	Need to manage CV equipment maintenance	Fleet Owners
+204	Need to limit additional vehicle cab devices that have the potential to distract drivers	Fleet Owners
+201	Need to have privacy	Roadway Users
+202	Need to manage CV application for the traffic environment	Roadway Users
+303	Need to notify vehicles of pedestrians	Roadway Users
+401	Need to have trusted communications	System Manager
+402	Need to manage equipment health	System Manager
+403	Need to manage CV application life-cycle	System Manager
+404	Need to manage CV application interrelationship	System Manager
+501	Need to collect detailed information when a warning is issued	Independent Evaluator
+502	Need to collect event recordings	Independent Evaluator
+503	Need to assess speed compliance	Independent Evaluator
+504	Need to assess vehicle-vehicle crashes	Independent Evaluator
+505	Need to assess vehicle-pedestrian crashes	Independent Evaluator
+506	Need to assess vehicle-infrastructure crashes	Independent Evaluator
+510	Need to assess all CV applications	Independent Evaluator

@@ -1,0 +1,44 @@
+﻿Rule,Title,Details,Type,,,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15
+,,,Method,Individual/Set,Additional Information,,,,,,,,,,,,,,,
+R1,Use structured statements,Conformance to EARS pattern,Sy+t,I,-,,,X,X,,,X,X,X,,,,,,
+R2,Use active voice,Responsible entity as the subject,Sy,I,-,,X,X,X,,,X,,,,,,,,
+R3,Appropriate subject-verb,Use subject and verb appropriate to the entity,M,I,-,,X,X,,,,X,,,X,,,,X,
+R4,Use defined terms,Define all the terms in an associated glossary,T,I,Glossary,,,X,,,,X,,,,X,,X,X,X
+R5,Use definite articles,Use `the' instead of `a' or `an',T,I,-,,,X,,,,X,,,,,,,,
+R6,Common units of measure,Consistent units with common measurement system,T,I,Units,,,X,X,,,X,X,,,,,,,
+R7,Avoid vague terms,"E.g., `some', `relevant', `typical' and adverbs",T,I,-,,,X,X,,,X,,,,,,,,
+R8,Avoid escape clauses,"E.g.,`if necessary', `as appropriate', `as required'",s,I,Escape clauses,,,X,,,,X,,,,,,,,
+R9,Avoid open-ended clauses,"E.g., `including but not limited to', `and so on'",s,I,Open-ended clauses,,,X,X,X,,X,,,,,,,,
+R10,Avoid superfluous infinitives,"E.g., `to be able to', `to allow', `to enable'",s,I,-,,,X,,,,X,,,,,,,,
+R11,Separate clauses,Use a separate clause for each condition/qualification,Sy,I,-,,,X,X,,,X,X,,,,,,,
+R12,Correct grammar,Use grammatically correct sentences,O,I,-,,,X,,,,X,X,X,,,,,,
+R13,Correct spelling,Use correct spelling,O,I,-,,,X,,,,X,,,,,,,,
+R14,Correct punctuation,Use correct and fewer punctuation,T,I,-,,,X,,,,,X,,,,,,,
+R15,Logical expressions,Use a defined convention for logical expressions,Sy,I,-,,,X,,,,X,,,,,,,,
+R16,Avoid the use of `not',Avoid negation in requirements,T,I,-,,,X,,,,X,X,,,,,,,
+R17,Avoid the oblique symbol,Do not use the oblique (`/') symbol,T,I,-,,,X,,,,X,,,,,,,,
+R18,Single-thought sentence,Single sentence qualified by relevant sub-clauses,Sy,I,-,,,X,,X,,X,,X,,,,X,,
+R19,Avoid combinators,"E.g., `and', `then', `or', `but', `whether'",T,I,-,,,X,,X,,,,,,,,,,
+R20,Avoid purpose phrases,"Avoid intent/reason, e.g., `... because ...', `... to ...'",s,I,-,X,,,,X,,,,,,,,,,
+R21,Avoid parentheses and brackets,Avoid subordinate text,T,I,-,,,,,X,,,,,,,,,,
+R22,Enumerate sets explicitly,Avoid using a group noun to name the set,T,I,-,,,X,,X,,,,,,,,,,
+R23,"Supporting diagram, model",Refer to relevant figure/diagram/model,T,I,-,,,X,X,X,,,,,,,,,,
+R24,Avoid pronouns,Avoid personal and indefinite pronouns,T,I,-,,,X,X,,,X,,,,,,,,
+R25,Avoid reliance on headings,Avoid relying on headings to get context,T,I,-,,,,X,,,,,,,,,,,
+R26,Avoid unachievable absolutes,"E.g., `100\%', `all', `always', `never'",T,I,Unacievable absolute,,,,,,X,X,X,,,,X,,,
+R27,Use explicit conditions,State conditions’ applicability explicitly,Sy,I,-,,,,X,,,X,X,,,,,,,
+R28,Use multiple conditions,Multiple conditions for single action is better,Sy,I,-,,,X,,,,X,,,,,,,,
+R29,Classify requirements,According to the aspects of the problem or system,O,I,Section headings,,,,,,,,,,X,X,,,,
+R30,Unique expression,Express each requirement once and only once,Sm,Set,-,X,,,,,,,,X,,X,,,,
+R31,Be solution free,Avoid stating implementation in a requirement,M,I,-,,X,,,,,,,,,,,,,
+R32,Universal qualification,"Use `each' instead of `all', `any' or `both'",T,I,-,,,X,,,,X,X,,,,,,,
+R33,Use a range of values,Define each quantity with a range of values,Sy,I,-,,,X,X,,X,X,X,,,,X,,,
+R34,Measurable performance,Provide specific measurable performance targets,T,I,-,,,X,X,,,X,,,,,X,,,
+R35,Explicit temporal dependencies,"Instead of indefinite ones: `until', `simultaneous'",T,I,-,,,X,X,,,X,,,,,,,,
+R36,Consistent terms and units,Consistent across the project’s lifecycle and ontology,T,I,Glossary,,,X,,,,,X,X,,X,,X,X,X
+R37,Use consistent acronyms,Consistent throughout requirements and the lifecycle,T,I,Acronyms,,,X,,,,,,X,,X,,X,X,X
+R38,Avoid abbreviations,"Avoid in requirements, models and lifecycle artefacts",T,I,Abbreviations,,,,,,,,,X,,X,,X,X,X
+R39,Use a style guide,Use a project-wide style guide for all requirements,T,I,EARS Pattern,,,,X,X,,,,X,,X,,X,X,X
+R40,Consistent decimal format,Use a consistent format and number of signification digits,T,I,-,,,X,X,,,,,X,,X,,,,
+R41,Related requirements,Group related requirements together,S,Set,-,,,,X,,,,,X,X,X,,X,,X
+R42,Structured sets,Conform to a template for organizing requirements,NA,I,-,,,,,,,,,,X,X,,X,X,X

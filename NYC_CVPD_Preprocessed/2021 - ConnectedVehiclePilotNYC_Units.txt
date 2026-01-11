@@ -1,0 +1,15 @@
+Hz
+ms
+millisecond
+milliseconds
+second
+seconds
+minute
+minutes
+days
+weeks
+hours
+years
+%
+meters
+bit
